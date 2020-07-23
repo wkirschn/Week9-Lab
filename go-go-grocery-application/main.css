@@ -1,0 +1,47 @@
+section {
+    padding: 3em 0 3em 0; 
+}
+
+h1 {
+    font-size: 5rem;
+    padding: 1em 0; 
+}
+
+h1,
+h2 {
+    font-family: 'Anton', sans-serif;
+}
+
+h2 {
+    font-size: 3rem; 
+}
+
+ul li {
+    font-family: 'Galada', cursive;
+    font-size: 2rem; 
+}
+
+#deals h3 {
+    font-family: 'Galada', cursive;
+}
+
+li button {
+    margin: 15px;
+    display: inline-block;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 0.9em;    
+}
+
+input[type="text"] {
+    margin: 2em 0; 
+}
+
+section {
+    border: 1px dashed #333; 
+    padding: 4em 2em;
+}
+
+#mylocation {
+    margin: 4em 0; 
+}
+
